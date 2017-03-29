@@ -17,8 +17,15 @@ When experimenting a new feature it would help to work on a branch other than ma
 
 How do the diagrams help you visualize the branch structure?
 
+By showing which commit has what and what it's connected to from the parent side..
+
+Visual representation of the whole master/branch(s) tree which might help with merging and other git functionalities..
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+A single branch that has the code changes from both of the branches merged. We represent them in the diagram
+based on time-stamp which might be conffusing for git log or git diff. Instead of git diff, however, we can use git show which will show the parent of that specific commit insted of the time-stamp ordering that could contain interleaved commits from both branches..
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?

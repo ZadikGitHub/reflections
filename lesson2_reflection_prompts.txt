@@ -13,6 +13,7 @@ git add one logically different file to staging area then git commit it with a m
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When experimenting a new feature it would help to work on a branch other than master
 
 How do the diagrams help you visualize the branch structure?
 

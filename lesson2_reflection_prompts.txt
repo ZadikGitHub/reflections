@@ -29,3 +29,4 @@ based on time-stamp which might be conffusing for git log or git diff. Instead o
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Automatic merging saves time when compared with doing it manually. And it also reveals if there are conflicting changes that might be done unintentionally if same piece of code is touched by different programmers..

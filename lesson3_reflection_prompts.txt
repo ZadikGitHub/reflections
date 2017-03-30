@@ -11,12 +11,8 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+We use forking on repositories owned by other developmers and where we can't change the code there (not a collaborator?). So forking acutally is cloning that to our own repository where we either can edit it there or clone it to owr local machine then push it back to our repository. Branching is done on a single repository for experimental/new feature reasons.
 
-What is the benefit of having a copy of the last known state of the remote
-stored locally?
-
-    Fill in your answer here
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?

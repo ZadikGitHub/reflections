@@ -27,3 +27,7 @@ master?  What benefits does each approach have?
     What is the benefit of having a copy of the last known state of the remote stored locally?
 
     Reduce the risk of conflict (e.g. due to changes by other developers, etc.)
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+By e-mails, messnger, etc. Using GitHub/Git should be easier for traking purposes..
